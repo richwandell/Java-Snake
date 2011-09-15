@@ -1,0 +1,11 @@
+Java Snake is a classic snake game written in pure java.
+
+You can run the .jar file from windows by double clicking on the snake.jar file if you have the jre installed and 
+configured for auto starting .jar files. 
+
+Otherwise you can run if by typing 
+java -jar snake.jar 
+
+from a command prompt (should work on all operating systems)
+
+Requires newest versions of Java
